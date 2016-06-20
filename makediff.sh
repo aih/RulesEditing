@@ -1,5 +1,5 @@
 #!/bin/sh
-$DOCNAME='Rules2012'
+DOCNAME='Rules2012'
 rm $DOCNAME'Compare.html'
 rm -r $DOCNAME'Compare_files'
 git show HEAD:$DOCNAME'.docx' > $DOCNAME'-prev.docx'

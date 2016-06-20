@@ -1,106 +1,9 @@
-THE RULES OF THE REPUBLICAN PARTY AS ADOPTED BY THE 2012 REPUBLICAN
-NATIONAL CONVENTION TAMPA, FLORIDA AUGUST 27, 2012 2
-
-PREAMBLE 2
-
-RULE NO. 1 Organization of the Republican National Committee 3
-
-RULE NO. 2 Method of Election for National Committeeman and National
-Committeewoman 3
-
-RULE NO. 3 Term of Office for National Committee Members 3
-
-RULE NO. 4 Vacancies of Members and Officers 4
-
-RULE NO. 5 Officers of the Republican National Committee 4
-
-RULE NO. 6 Executive Committee of the Republican National Committee 6
-
-RULE NO. 7 Rules of Order 7
-
-RULE NO. 8 Meetings of the Republican National Committee 8
-
-RULE NO. 9 Filling Vacancies in Nominations 8
-
-RULE NO. 10 Committees of the Republican National Committee 9
-
-RULE NO. 11 Candidate Support 13
-
-RULE NO. 12 Amendments 13
-
-RULE NO. 13 Call of Next Convention 14
-
-RULE NO. 14 Membership in Convention 14
-
-RULE NO. 15 Participation in the Delegate Selection Process 16
-
-RULE NO. 16 Election, Selection, Allocation, or Binding of Delegates and
-Alternate Delegates 16
-
-RULE NO. 17 Enforcement of Rules 22
-
-RULE NO. 18 Vacancies in a State Delegation 23
-
-RULE NO. 19 Excess Delegates and Alternate Delegates 24
-
-RULE NO. 20 Certification of Election or Selection of Delegates 24
-
-RULE NO. 21 Contests: Resolution by States 25
-
-RULE NO. 22 Temporary Roll of the Republican National Convention 25
-
-RULE NO. 23 Contest Filing 25
-
-RULE NO. 24 Contest Procedure 26
-
-RULE NO. 25 Convention Committee on Credentials 27
-
-RULE NO. 26 Order of Business 28
-
-RULE NO. 27 Committee Reports 28
-
-RULE NO. 28 Admission to Convention Hall 28
-
-RULE NO. 29 Voting 29
-
-RULE NO. 30 Rules of Order 29
-
-RULE NO. 31 Length of Debate 29
-
-RULE NO. 32 Suspension of Rules 29
-
-RULE NO. 33 Platform Resolutions 29
-
-RULE NO. 34 Minority Reports; Amendments 29
-
-RULE NO. 35 Motion to Table 30
-
-RULE NO. 36 Previous Question 30
-
-RULE NO. 37 Roll Call 30
-
-RULE NO. 38 Unit Rule 31
-
-RULE NO. 39 Record Vote 31
-
-RULE NO. 40 Nominations 31
-
-RULE NO. 41 Convention Committees 32
-
-RULE NO. 42 Temporary Rules 33
-
-### 
-
-Inserted Table of contents above and made text changes throughout.
-
-### 
-
 ### THE RULES OF THE REPUBLICAN PARTY AS ADOPTED BY THE 2012 REPUBLICAN NATIONAL CONVENTION TAMPA, FLORIDA AUGUST 27, 2012
 
 **AMENDED BY THE REPUBLICAN NATIONAL COMMITTEE ON APRIL 12, 2013,
 JANUARY 24, 2014, MAY 9, 2014 & AUGUST 8, 2014**
 
-#### <span id="preamble" class="anchor"><span id="_Toc327991837" class="anchor"></span></span>PREAMBLE
+#### PREAMBLE
 
 BE IT RESOLVED, That the Republican Party is the party of the open door.
 Ours is the party of liberty, the party of equality, of opportunity for
@@ -120,7 +23,7 @@ considered, and the rules of business of this national convention.
 
 **THE REPUBLICAN NATIONAL COMMITTEE**
 
-##### <span id="rule-no.-1-organization-of-the-republica" class="anchor"><span id="_Toc327991838" class="anchor"></span></span>RULE NO. 1 Organization of the Republican National Committee
+##### RULE NO. 1 Organization of the Republican National Committee
 
 (a) The Republican National Committee shall have the general management
     of the Republican Party, based upon the rules adopted by the
@@ -136,7 +39,7 @@ considered, and the rules of business of this national convention.
     which the word "state" or "states" is used clearly makes such
     inclusion inappropriate.
 
-##### <span id="rule-no.-2-method-of-election-for-nation" class="anchor"><span id="_Toc327991839" class="anchor"></span></span>RULE NO. 2 Method of Election for National Committeeman and National Committeewoman
+##### RULE NO. 2 Method of Election for National Committeeman and National Committeewoman
 
 (a) Where the rules adopted by a state Republican Party provide a method
     of election of the national committeeman and the national
@@ -148,13 +51,18 @@ considered, and the rules of business of this national convention.
     election, they shall be elected pursuant to such method provided by
     state laws.
 
-(c) At each national convention, the chairman of the delegation from
+(c) Where neither the rules adopted by a state Republican Party nor
+    state laws provide a method of election of the national committeeman
+    and the national committeewoman, the national convention delegation
+    from such state shall elect them.
+
+(d) At each national convention, the chairman of the delegation from
     each state shall submit the names of the elected national committee
     members to the secretary of the convention and their election shall
     be ratified by the national convention if otherwise in accordance
     with these rules.
 
-##### <span id="rule-no.-3-term-of-office-for-national-c" class="anchor"><span id="_Toc327991840" class="anchor"></span></span>RULE NO. 3 Term of Office for National Committee Members
+##### RULE NO. 3 Term of Office for National Committee Members
 
 (a) National committeemen and national committeewomen shall serve from
     the adjournment of the national convention until the adjournment of
@@ -167,7 +75,7 @@ considered, and the rules of business of this national convention.
     shall be a member of the Republican National Committee during his or
     her term in office.
 
-##### <span id="rule-no.-4-vacancies-of-members-and-offi" class="anchor"><span id="_Toc327991841" class="anchor"></span></span>RULE NO. 4 Vacancies of Members and Officers
+##### RULE NO. 4 Vacancies of Members and Officers
 
 (a) Election of members to fill vacancies in the Republican National
     Committee shall be ratified by the Republican National Committee
@@ -208,7 +116,7 @@ considered, and the rules of business of this national convention.
     Party rules. If no rule exists, vacancies shall be filled by
     majority vote of the Republican state committee.
 
-##### <span id="rule-no.-5-officers-of-the-republican-na" class="anchor"><span id="_Toc327991842" class="anchor"></span></span>RULE NO. 5 Officers of the Republican National Committee
+##### RULE NO. 5 Officers of the Republican National Committee
 
 (a) The officers of the Republican National Committee shall consist of:
 
@@ -220,7 +128,7 @@ considered, and the rules of business of this national convention.
         voting on the matter, the chairman and the co-chairman shall be
         full-time, paid employees of the Republican National Committee.
         The chairman shall be the chief executive officer of the
-        Republican National Committee. The chairman or co-chairman shall
+        Republican National Committee. The chairman or co-chairman may
         be removed from office only by a two-thirds (2/3) vote of the
         entire Republican National Committee.
 
@@ -243,17 +151,12 @@ considered, and the rules of business of this national convention.
             Kansas, Michigan, Minnesota, Missouri, Nebraska, North
             Dakota, Ohio, South Dakota, and Wisconsin;
 
-        iii. Where neither the rules adopted by a state Republican Party
-            nor state laws provide a method of election of the national
-            committeeman and the national committeewoman, the national
-            convention delegation from such state shall elect them.
-
-        iv. The Northeastern States Association: Connecticut, Delaware,
+        iii. The Northeastern States Association: Connecticut, Delaware,
             the District of Columbia, Maine, Maryland, Massachusetts,
             New Hampshire, New Jersey, New York, Pennsylvania, Puerto
             Rico, Rhode Island, Vermont, and the Virgin Islands; and
 
-        v.  The Southern States Association: Alabama, Arkansas, Florida,
+        iv. The Southern States Association: Alabama, Arkansas, Florida,
             Georgia, Kentucky, Louisiana, Mississippi, North Carolina,
             Oklahoma, South Carolina, Tennessee, Texas, Virginia, and
             West Virginia.
@@ -264,12 +167,12 @@ considered, and the rules of business of this national convention.
         treasurer shall be members or officers of the Republican
         National Committee when elected. A secretary, treasurer and
         other such officers elected by the Republican National Committee
-        shall be removed from office only by a two-thirds (2/3) vote of
+        may be removed from office only by a two-thirds (2/3) vote of
         the entire Republican National Committee. The secretary shall
         keep an accurate record of the proceedings of the meetings of
         the Republican National Committee, the Executive Committee, and
         all other committees of the Republican National Committee. The
-        secretary shall appoint assistant secretaries, who shall be
+        secretary may appoint assistant secretaries, who shall be
         members of the Republican National Committee, to assist the
         secretary in keeping the minutes of meetings and committees
         other than the Republican National Committee and the
@@ -295,7 +198,7 @@ considered, and the rules of business of this national convention.
     Republican Finance Committee need be a member of the Republican
     National Committee.
 
-##### <span id="rule-no.-6-executive-committee-of-the-re" class="anchor"><span id="_Toc327991843" class="anchor"></span></span>RULE NO. 6 Executive Committee of the Republican National Committee
+##### RULE NO. 6 Executive Committee of the Republican National Committee
 
 (a) There shall be an Executive Committee of the Republican National
     Committee to consist of twenty-nine (29) officers and members of the
@@ -310,7 +213,7 @@ considered, and the rules of business of this national convention.
     elected by and from each of the four (4) regional caucuses in
     January of each odd-numbered year.
 
-(b) The Executive Committee shall exercise all of the executive and
+(b) The Executive Committee may exercise all of the executive and
     administrative functions required of the Republican National
     Committee between meetings of the Republican National Committee,
     with the exception of the following:
@@ -339,10 +242,10 @@ considered, and the rules of business of this national convention.
     available within thirty (30) days after the close of the meeting to
     all members of the Republican National Committee.
 
-(d) The Executive Committee shall meet and act by telephone conference
+(d) The Executive Committee may meet and act by telephone conference
     upon twenty-four (24) hours notice.
 
-##### <span id="rule-no.-7-rules-of-order" class="anchor"><span id="_Toc327991844" class="anchor"></span></span>RULE NO. 7 Rules of Order
+##### RULE NO. 7 Rules of Order
 
 (a) The current authorized edition of Robert's Rules of Order: Newly
     Revised (“Robert’s Rules of Order”) shall govern in all meetings of
@@ -357,29 +260,29 @@ considered, and the rules of business of this national convention.
     committees shall be open meetings, except as provided for by
     Robert's Rules of Order.
 
-(c) A member of the Republican National Committee shall give a written
+(c) A member of the Republican National Committee may give a written
     proxy to an eligible and declared Republican voter of the same
-    state, which shall be effective for one (1) meeting and shall
-    include all committees of the Republican National Committee and
-    other meetings held in conjunction with the Republican National
-    Committee meeting that the proxy grantor is eligible to attend. A
-    member of a committee of the Republican National Committee shall
-    give a written proxy to an eligible and declared Republican voter of
-    the same state or to a member of the member’s state delegation to
-    the Republican National Committee. Proxies to attend Republican
-    National Committee meetings shall be filed by letter, email or other
-    acceptable form with the secretary of the Republican
-    National Committee. Proxies to attend a committee of the Republican
-    National Committee shall be filed by letter, email or other
-    acceptable form with the chairman of the respective committee. For
-    any committee of the Republican National Committee where members are
-    elected by region, those committee members who have been elected by
-    their region shall give a written proxy to a member of the member’s
-    regional caucus within the Republican National Committee, with the
-    approval of that caucus’ regional vice chairmen; those members who
-    have been appointed by the chairman shall give a written proxy to a
-    member of the Republican National Committee, with the approval of
-    the chairman of the Republican National Committee.
+    state, which shall be effective for one (1) meeting and may include
+    all committees of the Republican National Committee and other
+    meetings held in conjunction with the Republican National Committee
+    meeting that the proxy grantor is eligible to attend. A member of a
+    committee of the Republican National Committee may give a written
+    proxy to an eligible and declared Republican voter of the same state
+    or to a member of the member’s state delegation to the Republican
+    National Committee. Proxies to attend Republican National Committee
+    meetings shall be filed by letter, email or other acceptable form
+    with the secretary of the Republican National Committee. Proxies to
+    attend a committee of the Republican National Committee shall be
+    filed by letter, email or other acceptable form with the chairman of
+    the respective committee. For any committee of the Republican
+    National Committee where members are elected by region, those
+    committee members who have been elected by their region may give a
+    written proxy to a member of the member’s regional caucus within the
+    Republican National Committee, with the approval of that caucus’
+    regional vice chairmen; those members who have been appointed by the
+    chairman may give a written proxy to a member of the Republican
+    National Committee, with the approval of the chairman of the
+    Republican National Committee.
 
 (d) No votes (except elections to office when properly ordered pursuant
     to the provisions of Robert's Rules of Order) shall be taken by
@@ -395,7 +298,7 @@ considered, and the rules of business of this national convention.
     shall be defined as mail by the United States Postal Service,
     electronic mail, or private mail delivery service.
 
-##### <span id="rule-no.-8-meetings-of-the-republican-na" class="anchor"><span id="_Toc327991845" class="anchor"></span></span>RULE NO. 8 Meetings of the Republican National Committee
+##### RULE NO. 8 Meetings of the Republican National Committee
 
 (a) The Republican National Committee shall meet at least three (3)
     times in each year. A tentative agenda for each meeting shall be
@@ -428,14 +331,14 @@ considered, and the rules of business of this national convention.
     called meeting to be not later than twenty (20) days or earlier than
     ten (10) days from the date of the call.
 
-##### <span id="rule-no.-9-filling-vacancies-in-nominati" class="anchor"><span id="_Toc327991846" class="anchor"></span></span>RULE NO. 9 Filling Vacancies in Nominations
+##### RULE NO. 9 Filling Vacancies in Nominations
 
 (a) The Republican National Committee is hereby authorized and empowered
-    to fill any and all vacancies which shall occur by reason of death,
+    to fill any and all vacancies which may occur by reason of death,
     declination, or otherwise of the Republican candidate for President
     of the United States or the Republican candidate for Vice President
     of the United States, as nominated by the national convention, or
-    the Republican National Committee shall reconvene the national
+    the Republican National Committee may reconvene the national
     convention for the purpose of filling any such vacancies.
 
 (b) In voting under this rule, the Republican National Committee members
@@ -451,7 +354,7 @@ considered, and the rules of business of this national convention.
     receiving a majority of the votes entitled to be cast in
     the election.
 
-##### <span id="rule-no.-10-committees-of-the-republican" class="anchor"><span id="_Toc327991847" class="anchor"></span></span>RULE NO. 10 Committees of the Republican National Committee
+##### RULE NO. 10 Committees of the Republican National Committee
 
 (a) There shall be the following committees:
 
@@ -508,12 +411,12 @@ considered, and the rules of business of this national convention.
             Committee or at least three (3) days before a specially
             called meeting. In the event of a memorial resolution
             submitted in response to the passing of the person so
-            remembered, the ten (10) day requirement shall be waived by
+            remembered, the ten (10) day requirement may be waived by
             the Standing Committee on Resolutions.
 
     3.  The Republican National Committee shall create a Standing Budget
         Committee and any subcommittees thereof that it deems desirable
-        to which it shall delegate the responsibility of developing a
+        to which it may delegate the responsibility of developing a
         budget and reviewing income and expenditures of the Republican
         National Committee. The Standing Budget Committee shall be
         composed of eleven (11) members of the Republican National
@@ -576,7 +479,7 @@ considered, and the rules of business of this national convention.
         ii. There shall be an Executive Committee of the committee which
             shall consist of the chairman, co-chairman, secretary,
             treasurer and subcommittee chairmen of the committee and
-            which shall exercise all the powers of the committee between
+            which may exercise all the powers of the committee between
             its meetings. The chairman and co-chairman of the Republican
             National Committee shall serve as ex officio members of the
             Executive Committee of the committee.
@@ -614,7 +517,7 @@ considered, and the rules of business of this national convention.
 
     9.  The Republican National Committee shall create a Republican
         Finance Committee, and any subcommittees thereof that it deems
-        desirable, to which it shall delegate the responsibility of
+        desirable, to which it may delegate the responsibility of
         developing and implementing a broad-based fundraising plan. The
         chairman of the Republican Finance Committee shall be appointed
         pursuant to the provisions of Rule No. 5(c).
@@ -622,14 +525,14 @@ considered, and the rules of business of this national convention.
 (b) The draft minutes of these committees shall be made available as
     promptly as practicable, with the final minutes available upon
     approval of each respective committee, to all members of the
-    Republican National Committee. Any of these committees shall meet
-    and act by telephone conference upon twenty-four (24) hours notice.
+    Republican National Committee. Any of these committees may meet and
+    act by telephone conference upon twenty-four (24) hours notice.
 
 (c) The chairman of the Republican National Committee, with the approval
-    of the Republican National Committee, shall appoint such other
-    committees and assistants as he or she shall deem necessary.
-    Whenever such committees are appointed, they shall consist of a
-    chairman and an equal number of men and women.
+    of the Republican National Committee, may appoint such other
+    committees and assistants as he or she may deem necessary. Whenever
+    such committees are appointed, they shall consist of a chairman and
+    an equal number of men and women.
 
 (d) Whenever a committee is appointed pursuant to Rule No. 10(c), the
     committee shall consist of a chairman, who shall be a member of the
@@ -637,7 +540,7 @@ considered, and the rules of business of this national convention.
     half of whom shall be members of the Republican National Committee.
 
 (e) All committees appointed and/or elected pursuant to any of these
-    rules, except convention committees, shall meet by telephone
+    rules, except convention committees, may meet by telephone
     conference call with twenty-four (24) hours notice from the chairman
     of the Republican National Committee or the committee’s chairman.
 
@@ -681,8 +584,8 @@ considered, and the rules of business of this national convention.
     from among the members thereof. The Standing Committee on
     Presidential Primary Debates shall have the authority to sanction
     debates on behalf of the Republican National Committee based on
-    input from presidential campaigns and criteria which shall include
-    but are not limited to considerations of timing, frequency, format,
+    input from presidential campaigns and criteria which may include but
+    are not limited to considerations of timing, frequency, format,
     media outlet, and the best interests of the Republican Party. Each
     debate sanctioned by the Standing Committee on Presidential Primary
     Debates shall be known as a "Sanctioned Debate." Any presidential
@@ -690,7 +593,7 @@ considered, and the rules of business of this national convention.
     Debate shall not be eligible to participate in any further
     Sanctioned Debates.
 
-##### <span id="rule-no.-11-candidate-support" class="anchor"><span id="_Toc327991848" class="anchor"></span></span>RULE NO. 11 Candidate Support
+##### RULE NO. 11 Candidate Support
 
 (a) The Republican National Committee shall not, without the prior
     written and filed approval of all members of the Republican National
@@ -700,7 +603,7 @@ considered, and the rules of business of this national convention.
     in the Republican primary after the filing deadline for that office.
     In those states where state law establishes a non-partisan primary
     in which Republican candidates could participate, but in which the
-    general election shall not include a Republican candidate, the
+    general election may not include a Republican candidate, the
     candidate endorsed by a convention held under the authority of the
     state Republican Party shall be recognized by the Republican
     National Committee as the Republican nominee.
@@ -715,9 +618,9 @@ considered, and the rules of business of this national convention.
     Republican National Committee as the nominee of the Republican Party
     from that state.
 
-##### <span id="rule-no.-12-amendments" class="anchor"><span id="_Toc327991849" class="anchor"></span></span>RULE NO. 12 Amendments
+##### RULE NO. 12 Amendments
 
-The Republican National Committee shall, by three-fourths (3/4) vote of
+The Republican National Committee may, by three-fourths (3/4) vote of
 its entire membership, amend Rule Nos. 1-11 and 13-25. Any such
 amendment shall be considered by the Republican National Committee only
 if it was passed by a majority vote of the Standing Committee on Rules
@@ -728,7 +631,7 @@ adopted after September 30, 2014.
 
 CONVENING OF THE NEXT NATIONAL CONVENTION
 
-##### <span id="rule-no.-13-call-of-next-convention" class="anchor"><span id="_Toc327991850" class="anchor"></span></span>RULE NO. 13 Call of Next Convention
+##### RULE NO. 13 Call of Next Convention
 
 The Republican National Committee shall issue the call for the next
 national convention to nominate candidates for President of the United
@@ -742,7 +645,7 @@ including any penalties assessed under Rule No. 17(a), and will note
 which states’ delegations will be allocated in direct proportion in
 accordance with Rule No. 17(b).
 
-##### <span id="rule-no.-14-membership-in-convention" class="anchor"><span id="_Toc327991851" class="anchor"></span></span>RULE NO. 14 Membership in Convention
+##### RULE NO. 14 Membership in Convention
 
 Subject to the provisions of Rule No. 17, the membership of the next
 national convention shall consist of:
@@ -833,18 +736,18 @@ national convention shall consist of:
     the national convention, except that no alternates shall be selected
     for Republican National Committee members.
 
-(c) Any state Republican Party shall set the date for any primary,
-    caucus, convention, or meeting for the purpose of voting for a
-    presidential candidate and/or electing, selecting, allocating, or
-    binding delegates to the national convention subject to the
-    scheduling provisions in Rule No. 16. To the extent a state
-    Republican Party’s rules are in conflict with its state’s laws with
-    respect to this rule, the provisions of this rule and the state
-    Republican Party’s rules shall control. To the extent the provisions
-    of the rule are inconsistent with the provisions of Rule No. 16, the
-    provisions of this rule shall be controlling for all purposes.
+(c) Any state Republican Party may set the date for any primary, caucus,
+    convention, or meeting for the purpose of voting for a presidential
+    candidate and/or electing, selecting, allocating, or binding
+    delegates to the national convention subject to the scheduling
+    provisions in Rule No. 16. To the extent a state Republican Party’s
+    rules are in conflict with its state’s laws with respect to this
+    rule, the provisions of this rule and the state Republican Party’s
+    rules shall control. To the extent the provisions of the rule are
+    inconsistent with the provisions of Rule No. 16, the provisions of
+    this rule shall be controlling for all purposes.
 
-##### <span id="rule-no.-15-participation-in-the-delegat" class="anchor"><span id="_Toc327991852" class="anchor"></span></span>RULE NO. 15 Participation in the Delegate Selection Process
+##### RULE NO. 15 Participation in the Delegate Selection Process
 
 (a) The states, in cooperation with the Republican National Committee,
     shall prepare instructive material on delegate election, selection,
@@ -876,7 +779,7 @@ national convention shall consist of:
 (e) The provisions of these rules are not intended to be the basis of
     any kind of quota system.
 
-##### <span id="rule-no.-16-election-selection-allocatio" class="anchor"><span id="_Toc327991853" class="anchor"></span></span>RULE NO. 16 Election, Selection, Allocation, or Binding of Delegates and Alternate Delegates
+##### RULE NO. 16 Election, Selection, Allocation, or Binding of Delegates and Alternate Delegates
 
 (a) Binding and Allocation.
 
@@ -926,7 +829,7 @@ national convention shall consist of:
         select, allocate, or bind delegates to the national convention
         shall occur prior to March 1 or after the second Saturday in
         June in the year in which a national convention is held. Except
-        Iowa, New Hampshire, South Carolina, and Nevada shall conduct
+        Iowa, New Hampshire, South Carolina, and Nevada may conduct
         their processes no earlier than one month before the next
         earliest state in the year in which a national convention is
         held and shall not be subject to the provisions of
@@ -943,26 +846,25 @@ national convention shall consist of:
         cast or the number of congressional district votes cast in
         proportion to the number of votes received by each candidate.
 
-        i.  A state shall establish by statewide vote or by
-            congressional district a minimum threshold of the percentage
-            of votes received by a candidate that must be reached below
-            which a candidate shall receive no delegates, provided such
-            threshold is no higher than twenty percent (20%).
+        i.  A state may establish by statewide vote or by congressional
+            district a minimum threshold of the percentage of votes
+            received by a candidate that must be reached below which a
+            candidate may receive no delegates, provided such threshold
+            is no higher than twenty percent (20%).
 
-        ii. A state shall establish by statewide vote or by
-            congressional district a minimum threshold of the percentage
-            of votes received by a candidate that must be reached above
-            which the candidate shall receive all the delegates,
-            provided such threshold is no lower than fifty
-            percent (50%).
+        ii. A state may establish by statewide vote or by congressional
+            district a minimum threshold of the percentage of votes
+            received by a candidate that must be reached above which the
+            candidate may receive all the delegates, provided such
+            threshold is no lower than fifty percent (50%).
 
 (d) General. In all elections or selections of delegates or alternate
     delegates to the national convention, the following rules shall
     apply:
 
-    1.  Delegates and alternate delegates to the national convention
-        shall be elected, selected, allocated, or bound only in one of
-        the following manners:
+    1.  Delegates and alternate delegates to the national convention may
+        be elected, selected, allocated, or bound only in one of the
+        following manners:
 
         i.  by primary election;
 
@@ -989,7 +891,7 @@ national convention shall consist of:
         legal and qualified voters shall be elected as delegates to
         county, district, and state conventions; provided, however, that
         in addition to the qualifications provided herein, the
-        applicable Republican Party rules of a state shall prescribe
+        applicable Republican Party rules of a state may prescribe
         additional qualifications not inconsistent with law, which
         additional qualifications shall be adopted before October 1 in
         the year before the year in which the national convention is to
@@ -1034,7 +936,7 @@ national convention shall consist of:
         delegates elected therein and shall be chosen in the same manner
         and at the same time as the delegates and under the same rules;
         provided, however, that if the law of any state shall prescribe
-        another method of choosing alternate delegates, they shall be
+        another method of choosing alternate delegates, they may be
         chosen in accordance with the provisions of the law of the state
         in which the election occurs, except that no alternates shall be
         selected for Republican National Committee members.
@@ -1047,7 +949,7 @@ national convention shall consist of:
         to injuries suffered in military service the opportunity to
         exercise their right to vote in that process. This rule is not
         intended to and shall not prevent a state from using a caucus or
-        convention process that shall or shall not elect presidential
+        convention process that may or may not elect presidential
         delegates or alternates.
 
     8.  Delegates and alternate delegates at large to the national
@@ -1119,15 +1021,15 @@ national convention shall consist of:
     1.  Congressional district or state conventions shall be called by
         the Republican state committee.
 
-    2.  Delegates to Congressional district conventions shall be elected
+    2.  Delegates to Congressional district conventions may be elected
         in precinct caucuses, mass meetings, mass conventions, or county
         conventions in which only eligible voters in such precinct,
-        county, or district, as the case shall be, shall vote.
+        county, or district, as the case may be, shall vote.
 
     3.  Notices of the call for any such caucus, meeting, or convention
         shall be published in a newspaper or newspapers or on the state
         party’s website or other method sufficient for general
-        circulation in the county, district, or state, as the case shall
+        circulation in the county, district, or state, as the case may
         be, not less than fifteen (l5) days prior to the date of such
         caucus, meeting, or convention.
 
@@ -1169,12 +1071,12 @@ national convention shall consist of:
         selection, allocation, or binding of such delegates and
         alternate delegates.
 
-    2.  The Republican National Committee shall grant a waiver to a
-        state Republican Party from certain provisions of this rule
-        where it is not possible for a state Republican Party to comply
-        with the October 1 deadline delineated in paragraph (f)(1) of
-        this rule and not possible for a state Republican Party to hold
-        its presidential primary, caucus, convention, or meeting for the
+    2.  The Republican National Committee may grant a waiver to a state
+        Republican Party from certain provisions of this rule where it
+        is not possible for a state Republican Party to comply with the
+        October 1 deadline delineated in paragraph (f)(1) of this rule
+        and not possible for a state Republican Party to hold its
+        presidential primary, caucus, convention, or meeting for the
         purpose of voting for a presidential candidate and/or electing,
         selecting, allocating, or binding delegates to the national
         convention as was used for the immediately preceding national
@@ -1184,13 +1086,13 @@ national convention shall consist of:
         Republican National Committee determines that granting such
         waiver is in the best interest of the Republican Party.
 
-    3.  The Republican National Committee shall grant a waiver to a
-        state Republican Party from the provisions of Rule Nos. 16(a)(1)
+    3.  The Republican National Committee may grant a waiver to a state
+        Republican Party from the provisions of Rule Nos. 16(a)(1)
         and (2) where compliance is impossible and the Republican
         National Committee determines that granting such waiver is in
         the best interests of the Republican Party.
 
-##### <span id="rule-no.-17-enforcement-of-rules" class="anchor"><span id="_Toc327991854" class="anchor"></span></span>RULE NO. 17 Enforcement of Rules
+##### RULE NO. 17 Enforcement of Rules
 
 (a) If any state or state Republican Party violates Rule No. 16(c)(2),
     the number of delegates and the number of alternate delegates to the
@@ -1248,7 +1150,7 @@ national convention shall consist of:
 
 (e) If the chairman of the Republican National Committee does not act
     upon a violation of Rule No. 16(c) of The Rules of the Republican
-    Party, then a statement shall be filed against a state or state
+    Party, then a statement may be filed against a state or state
     Republican Party by any three (3) members of the Republican National
     Committee Standing Committee on Rules who feel that a violation
     has occurred.
@@ -1274,7 +1176,7 @@ national convention shall consist of:
     finding of a violation against it or a penalty imposed upon it under
     this rule.
 
-##### <span id="rule-no.-18-vacancies-in-a-state-delegat" class="anchor"><span id="_Toc327991855" class="anchor"></span></span>RULE NO. 18 Vacancies in a State Delegation
+##### RULE NO. 18 Vacancies in a State Delegation
 
 (a) Where the rules adopted by a state Republican Party provide a method
     for filling vacancies in its national convention delegation, they
@@ -1296,14 +1198,14 @@ national convention shall consist of:
     of the state delegation. This section shall not apply to the
     delegates allocated to the state in Rule No. 14(a)(2).
 
-##### <span id="rule-no.-19-excess-delegates-and-alterna" class="anchor"><span id="_Toc327991856" class="anchor"></span></span>RULE NO. 19 Excess Delegates and Alternate Delegates
+##### RULE NO. 19 Excess Delegates and Alternate Delegates
 
 (a) No state shall elect or select a greater number of persons to act as
     delegates and alternate delegates than the actual number of
     delegates and alternate delegates, respectively, to which it is
     entitled under the call for the national convention, including any
-    Rule No. 17 penalties. No unit of representation shall elect or
-    select any delegate or alternate delegate with permission to cast a
+    Rule No. 17 penalties. No unit of representation may elect or select
+    any delegate or alternate delegate with permission to cast a
     fractional vote.
 
 (b) Where more than the authorized number of delegates from any state is
@@ -1315,7 +1217,7 @@ national convention shall consist of:
     claimants reported shall be placed upon the temporary roll of the
     national convention.
 
-##### <span id="rule-no.-20-certification-of-election-or" class="anchor"><span id="_Toc327991857" class="anchor"></span></span>RULE NO. 20 Certification of Election or Selection of Delegates
+##### RULE NO. 20 Certification of Election or Selection of Delegates
 
 (a) All delegates and alternate delegates shall be elected or selected
     not later than forty-five (45) days before the date of the meeting
@@ -1353,7 +1255,7 @@ national convention shall consist of:
     rendering impossible the filing of credentials within the time
     above specified.
 
-(d) The Executive Committee of the Republican National Committee shall
+(d) The Executive Committee of the Republican National Committee may
     grant a waiver to a state Republican Party that is out of compliance
     with the deadlines imposed by Rule 20 as of the date the start of
     the convention is set and, where, after reasonable efforts were made
@@ -1366,7 +1268,7 @@ national convention shall consist of:
     over the governmental entity with the authority to set the date for
     the delegate selection process then a waiver shall be granted.
 
-##### <span id="rule-no.-21-contests-resolution-by-state" class="anchor"><span id="_Toc327991858" class="anchor"></span></span>RULE NO. 21 Contests: Resolution by States
+##### RULE NO. 21 Contests: Resolution by States
 
 All contests arising in any state electing district delegates by
 district conventions shall be decided by its state convention or, if the
@@ -1375,11 +1277,11 @@ by its state committee. Only contests affecting delegates elected or
 selected at large shall be presented to the Republican National
 Committee; provided, however, if the contest regarding a district
 delegate arises out of irregular or unlawful action of the state
-committee or state convention, the Republican National Committee shall
+committee or state convention, the Republican National Committee may
 take jurisdiction thereof and hear and determine the same under the
 procedures provided in Rule Nos. 23 and 24.
 
-##### <span id="rule-no.-22-temporary-roll-of-the-republ" class="anchor"><span id="_Toc327991859" class="anchor"></span></span>RULE NO. 22 Temporary Roll of the Republican National Convention
+##### RULE NO. 22 Temporary Roll of the Republican National Convention
 
 (a) The names of the delegates and alternate delegates presenting
     certificates of election from the officials designated in Rule No.
@@ -1391,13 +1293,13 @@ procedures provided in Rule Nos. 23 and 24.
     contested shall be entitled to vote in the national convention or in
     any committee thereof until by vote of the national convention the
     contest as to such person has been finally decided and such person
-    has been permanently seated, except that any such person shall be
+    has been permanently seated, except that any such person may be
     accorded the right to so vote, except in matters involving the
     credentials of that person, by an affirmative vote of a majority of
     the members of the Republican National Committee or the Convention
     Committee on Credentials.
 
-##### <span id="rule-no.-23-contest-filing" class="anchor"><span id="_Toc327991860" class="anchor"></span></span>RULE NO. 23 Contest Filing
+##### RULE NO. 23 Contest Filing
 
 (a) Notices of contests shall state: (i) the name and address of the
     person filing the notice (“the contestant”), (ii) the name of the
@@ -1416,7 +1318,7 @@ procedures provided in Rule Nos. 23 and 24.
     certification in accordance with Rule No. 20 of any delegates or
     alternate delegates so elected or selected.
 
-(b) Contests shall be filed only by a resident of the state of the
+(b) Contests may be filed only by a resident of the state of the
     challenged delegate(s) or alternate delegate(s) who participated at
     any level in the delegate selection process of that state.
 
@@ -1432,7 +1334,7 @@ procedures provided in Rule Nos. 23 and 24.
     persons whose right to be seated as a delegate or alternate delegate
     is the subject of such notice of contest.
 
-##### <span id="rule-no.-24-contest-procedure" class="anchor"><span id="_Toc327991861" class="anchor"></span></span>RULE NO. 24 Contest Procedure
+##### RULE NO. 24 Contest Procedure
 
 (a) The Standing Committee on Contests shall have the power to adopt
     procedural rules, not inconsistent with these rules, which shall
@@ -1489,20 +1391,20 @@ procedures provided in Rule Nos. 23 and 24.
     whole committee.
 
 (f) When the Republican National Committee is called to pass upon any
-    contest that shall arise, the members of the Convention Committee on
+    contest that may arise, the members of the Convention Committee on
     Credentials shall also be notified of the time and place of such
     meeting and shall have the right to attend all hearings of all
     contests but without the right to participate in the discussion or
     the vote.
 
-##### <span id="rule-no.-25-convention-committee-on-cred" class="anchor"><span id="_Toc327991862" class="anchor"></span></span>RULE NO. 25 Convention Committee on Credentials
+##### RULE NO. 25 Convention Committee on Credentials
 
 (a) When the national convention shall have assembled, the secretary of
     the Republican National Committee shall deliver to the Convention
     Committee on Credentials all credentials and other papers forwarded
     under Rule No. 20(c).
 
-(b) An appeal shall be taken to the Convention Committee on Credentials
+(b) An appeal may be taken to the Convention Committee on Credentials
     from any ruling of the Republican National Committee on any contest,
     by and only by a party to such contest in the proceedings conducted
     pursuant to Rule Nos. 23 and 24; provided, however, that notice of
@@ -1517,7 +1419,7 @@ procedures provided in Rule Nos. 23 and 24.
     majority vote of its members present and voting, so direct.
 
 (c) No issue involving the status of one or more delegates or alternate
-    delegates or any contest relating thereto shall originate before the
+    delegates or any contest relating thereto may originate before the
     Convention Committee on Credentials of the national convention. All
     contests must first be presented to the Standing Committee on
     Contests of the Republican National Committee or to the whole
@@ -1530,16 +1432,16 @@ procedures provided in Rule Nos. 23 and 24.
 
 **PROCEEDINGS OF NATIONAL CONVENTION**
 
-##### <span id="rule-no.-26-order-of-business" class="anchor"><span id="_Toc327991863" class="anchor"></span></span>RULE NO. 26 Order of Business
+##### RULE NO. 26 Order of Business
 
 The convention shall proceed in the order of business prepared and
-printed by the Republican National Committee. The order of business
-shall include the time and date for the consideration of any item of
-business, the time limit assigned for consideration of any item of
-business, and procedural rules for the consideration of any item of
-business that are not inconsistent with these rules.
+printed by the Republican National Committee. The order of business may
+include the time and date for the consideration of any item of business,
+the time limit assigned for consideration of any item of business, and
+procedural rules for the consideration of any item of business that are
+not inconsistent with these rules.
 
-##### <span id="rule-no.-27-committee-reports" class="anchor"><span id="_Toc327991864" class="anchor"></span></span>RULE NO. 27 Committee Reports
+##### RULE NO. 27 Committee Reports
 
 (a) The report of the Convention Committee on Credentials shall be
     disposed of before the report of the Convention Committee on Rules
@@ -1559,7 +1461,7 @@ business that are not inconsistent with these rules.
     considered as read if made available to the delegates prior to
     its consideration.
 
-##### <span id="rule-no.-28-admission-to-convention-hall" class="anchor"><span id="_Toc327991865" class="anchor"></span></span>RULE NO. 28 Admission to Convention Hall
+##### RULE NO. 28 Admission to Convention Hall
 
 (a) No person except members of the several delegations, officers of the
     convention, members of the Republican National Committee and
@@ -1583,10 +1485,10 @@ business that are not inconsistent with these rules.
     alternate delegate membership for that state, rounded to the next
     whole number.
 
-##### <span id="rule-no.-29-voting" class="anchor"><span id="_Toc327991866" class="anchor"></span></span>RULE NO. 29 Voting
+##### RULE NO. 29 Voting
 
 (a) Each delegate to the convention shall be entitled to one (1) vote,
-    which shall be cast by an alternate delegate in the absence of the
+    which may be cast by an alternate delegate in the absence of the
     delegate, and an individual holding more than one (1) of the
     following positions: national committeeman; national committeewoman;
     or state chairman of any state, shall not be entitled to more than
@@ -1602,37 +1504,37 @@ business that are not inconsistent with these rules.
     for the state to designate the alternate voting order to
     be followed.
 
-##### <span id="rule-no.-30-rules-of-order" class="anchor"><span id="_Toc327991867" class="anchor"></span></span>RULE NO. 30 Rules of Order
+##### RULE NO. 30 Rules of Order
 
 The Rules of the House of Representatives of the United States shall be
 the rules of the convention, except that the current authorized edition
 of Robert's Rules of Order: Newly Revised (“Robert's Rules of Order")
 shall be the rules for committees and subcommittees of the convention,
 insofar as they are applicable and not inconsistent with the rules
-herein set forth; provided, however, that the convention shall adopt its
+herein set forth; provided, however, that the convention may adopt its
 own rules concerning the reading of committee reports and resolutions.
 
-##### <span id="rule-no.-31-length-of-debate" class="anchor"><span id="_Toc327991868" class="anchor"></span></span>RULE NO. 31 Length of Debate
+##### RULE NO. 31 Length of Debate
 
 No delegate shall speak more than once or longer than five (5) minutes
 upon the same question, unless by leave of the convention, except in the
 presentation of the name of a candidate for nomination for President of
 the United States or Vice President of the United States.
 
-##### <span id="rule-no.-32-suspension-of-rules" class="anchor"><span id="_Toc327991869" class="anchor"></span></span>RULE NO. 32 Suspension of Rules
+##### RULE NO. 32 Suspension of Rules
 
 A motion to suspend the rules shall always be in order, but only when
 made by authority of a majority of the delegates from any state and
 seconded by a majority of the delegates from each of seven (7) or more
 other states, severally.
 
-##### <span id="rule-no.-33-platform-resolutions" class="anchor"><span id="_Toc327991870" class="anchor"></span></span>RULE NO. 33 Platform Resolutions
+##### RULE NO. 33 Platform Resolutions
 
 All proposed resolutions relating to the platform shall be submitted in
 writing to the Convention Committee on the Platform without reading and
 without debate.
 
-##### <span id="rule-no.-34-minority-reports-amendments" class="anchor"><span id="_Toc327991871" class="anchor"></span></span>RULE NO. 34 Minority Reports; Amendments
+##### RULE NO. 34 Minority Reports; Amendments
 
 (a) No resolution or amendment pertaining to the report of the
     Convention Committee on the Platform or the Convention Committee on
@@ -1650,13 +1552,13 @@ without debate.
     Credentials affecting delegates or alternate delegates from more
     than one (1) state shall be in order.
 
-##### <span id="rule-no.-35-motion-to-table" class="anchor"><span id="_Toc327991872" class="anchor"></span></span>RULE NO. 35 Motion to Table
+##### RULE NO. 35 Motion to Table
 
 It shall be in order to lay on the table a proposed amendment to a
 pending measure and such motion, if adopted, shall not carry with it or
 prejudice such original measure.
 
-##### <span id="rule-no.-36-previous-question" class="anchor"><span id="_Toc327991873" class="anchor"></span></span>RULE NO. 36 Previous Question
+##### RULE NO. 36 Previous Question
 
 When the previous question shall be demanded by a majority of the
 delegates from any state, and the demand is likewise seconded by a
@@ -1664,7 +1566,7 @@ majority of delegates from each of two (2) or more other states,
 severally, the call is sustained by a majority vote of the delegates to
 the convention.
 
-##### <span id="rule-no.-37-roll-call" class="anchor"><span id="_Toc327991874" class="anchor"></span></span>RULE NO. 37 Roll Call
+##### RULE NO. 37 Roll Call
 
 (a) Upon all subjects before the convention requiring a roll call, the
     states shall be called in alphabetical order.
@@ -1692,7 +1594,7 @@ the convention.
     States and Vice President of the United States, or where the
     majority of delegates of fifteen (15) or more states severally have
     requested that a roll call be conducted by voice call of the roll,
-    the chairman of the convention shall order that the balloting on any
+    the chairman of the convention may order that the balloting on any
     subject placed before the convention requiring a roll call be
     conducted by electronic, telephonic, or computer device which will
     display votes to the convention simultaneously. Each delegation
@@ -1710,7 +1612,7 @@ the convention.
     allowed to be conducted according to procedures authorized by the
     Republican National Committee.
 
-##### <span id="rule-no.-38-unit-rule" class="anchor"><span id="_Toc327991875" class="anchor"></span></span>RULE NO. 38 Unit Rule
+##### RULE NO. 38 Unit Rule
 
 No delegate or alternate delegate shall be bound by any attempt of any
 state or Congressional district to impose the unit rule. A “unit rule”
@@ -1718,13 +1620,13 @@ prohibited by this section means a rule or law under which a delegation
 at the national convention casts its entire vote as a unit as determined
 by a majority vote of the delegation.
 
-##### <span id="rule-no.-39-record-vote" class="anchor"><span id="_Toc327991876" class="anchor"></span></span>RULE NO. 39 Record Vote
+##### RULE NO. 39 Record Vote
 
 If a majority of the delegates of any seven (7) states, severally shall
 demand a roll call vote, the same shall be taken of the states in the
 order hereinbefore established.
 
-##### <span id="rule-no.-40-nominations" class="anchor"><span id="_Toc327991877" class="anchor"></span></span>RULE NO. 40 Nominations
+##### RULE NO. 40 Nominations
 
 (a) In making the nominations for President of the United States and
     Vice President of the United States and voting thereon, the roll of
@@ -1770,7 +1672,7 @@ order hereinbefore established.
     have received a majority of the votes entitled to be cast in
     the convention.
 
-##### <span id="rule-no.-41-convention-committees" class="anchor"><span id="_Toc327991878" class="anchor"></span></span>RULE NO. 41 Convention Committees
+##### RULE NO. 41 Convention Committees
 
 (a) There shall be four (4) convention committees; the convention
     committees on the Platform, Credentials, Rules and Order of
@@ -1787,19 +1689,19 @@ order hereinbefore established.
     Permanent Organization of the convention, consisting of one (1) man
     and one (1) woman for each committee, and shall file notice of such
     election with the secretary of the Republican National Committee
-    under Rule No. 20(c); provided, however, that no delegate shall
-    serve on more than one (1) committee of the convention. Alternate
-    delegates shall not serve as delegation chairmen or as members of
-    the convention committees, except when the number of delegates able
-    to serve on convention committees is less than the number of
-    committee positions to be filled, then an alternate delegate can
-    serve, except that no alternate delegate shall serve on more than
-    one (1) committee. Delegations electing alternate delegates to serve
-    on convention committees in violation of the preceding sentence
-    shall forfeit all positions on the committee(s) to which such
-    alternate delegates were elected.
+    under Rule No. 20(c); provided, however, that no delegate may serve
+    on more than one (1) committee of the convention. Alternate
+    delegates may not serve as delegation chairmen or as members of the
+    convention committees, except when the number of delegates able to
+    serve on convention committees is less than the number of committee
+    positions to be filled, then an alternate delegate can serve, except
+    that no alternate delegate may serve on more than one (1) committee.
+    Delegations electing alternate delegates to serve on convention
+    committees in violation of the preceding sentence shall forfeit all
+    positions on the committee(s) to which such alternate delegates
+    were elected.
 
-(b) Convention committees and subcommittees shall set time limits for
+(b) Convention committees and subcommittees may set time limits for
     speaking on any question by a simple majority vote; provided,
     however, that not less than twenty (20) minutes, equally divided
     between proponents and opponents on any question, shall be allowed
@@ -1831,7 +1733,7 @@ order hereinbefore established.
     shall be provided the most current listing of their fellow committee
     members, with complete contact information.
 
-##### <span id="rule-no.-42-temporary-rules" class="anchor"><span id="_Toc327991879" class="anchor"></span></span>RULE NO. 42 Temporary Rules
+##### RULE NO. 42 Temporary Rules
 
 Upon the adoption of the report of the Convention Committee on Rules and
 Order of Business, Rule Nos. 26-42 shall constitute the Standing Rules
